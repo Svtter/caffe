@@ -27,3 +27,4 @@ Exception: "dot" not found in path.
 
 ```bash
 !$CAFFE_ROOT/python/draw_net.py $CAFFE_ROOT/examples/mnist/lenet_train_test.prototxt /train/lenet_test.png
+```
