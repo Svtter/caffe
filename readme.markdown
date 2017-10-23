@@ -2,6 +2,14 @@
 
 New caffe Docker.
 
+## Required
+
+Docker installed firstly.
+
+## Download
+
+`git clone https://github.com/Svtter/caffe $HOME/Work/Docker/caffe`
+
 ## Run
 
 `docker run -it --name caffe-image -v ~/Work/Docker/caffe/train:/train svtter/caffe ipython`
